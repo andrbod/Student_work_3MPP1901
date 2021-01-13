@@ -1,0 +1,11 @@
+B    Ç‘_¡  ã               @   s0   d Z ddlZddlmZ ej dd¡ eƒ ZdS )zÜ
+WSGI config for firstwebpage project.
+
+It exposes the WSGI callable as a module-level variable named ``application``.
+
+For more information on this file, see
+https://docs.djangoproject.com/en/3.1/howto/deployment/wsgi/
+é    N)Úget_wsgi_applicationÚDJANGO_SETTINGS_MODULEzfirstwebpage.settings)Ú__doc__ÚosÚdjango.core.wsgir   ÚenvironÚ
+setdefaultÚapplication© r
+   r
+   ú4d:\Lab2\firstwebpage\firstwebpage\wsgi.pyÚ<module>   s   

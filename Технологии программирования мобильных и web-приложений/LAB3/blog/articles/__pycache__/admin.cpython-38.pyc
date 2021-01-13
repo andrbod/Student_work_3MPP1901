@@ -1,0 +1,3 @@
+U    ÉùŠ_  ã                   @   s8   d dl mZ ddlT G dd„ dejƒZej ee¡ dS )é    )Úadminé   )Ú*c                   @   s   e Zd ZdZdS )ÚArticleAdmin)ÚtitleÚauthorÚget_excerptÚcreated_dateN)Ú__name__Ú
+__module__Ú__qualname__Úlist_display© r   r   ú$D:\lab3\blog\articles\admin.pyr      s   r   N)Zdjango.contribr   ÚmodelsÚ
+ModelAdminr   ÚsiteÚregisterÚArticler   r   r   r   Ú<module>   s   

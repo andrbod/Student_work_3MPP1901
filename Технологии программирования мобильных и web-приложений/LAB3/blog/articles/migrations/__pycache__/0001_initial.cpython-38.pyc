@@ -1,0 +1,15 @@
+U    »¬Š_v  ã                   @   s:   d dl mZ d dlmZmZ d dlZG dd„ dejƒZdS )é    )Úsettings)Ú
+migrationsÚmodelsNc                   @   s‚   e Zd ZdZe ej¡gZej	dde
+jdddddfde
+jdd	fd
+e
+ ¡ fde
+jddfde
+jejj
+jjejdfgdgZdS )Ú	MigrationTÚArticleÚidFÚID)Úauto_createdÚprimary_keyÚ	serializeÚverbose_nameÚtitleéÈ   )Ú
+max_lengthÚtextÚcreated_date)Úauto_now_addÚauthor)Ú	on_deleteÚto)ÚnameÚfieldsN)Ú__name__Ú
+__module__Ú__qualname__Úinitialr   Úswappable_dependencyr   ÚAUTH_USER_MODELÚdependenciesÚCreateModelr   Ú	AutoFieldÚ	CharFieldÚ	TextFieldÚ	DateFieldÚ
+ForeignKeyÚdjangoÚdbÚdeletionÚCASCADEÚ
+operations© r*   r*   ú6D:\lab3\blog\articles\migrations\0001_initial.pyr      s   
+ÿ
+ûşÿr   )Údjango.confr   Ú	django.dbr   r   Údjango.db.models.deletionr%   r   r*   r*   r*   r+   Ú<module>   s   

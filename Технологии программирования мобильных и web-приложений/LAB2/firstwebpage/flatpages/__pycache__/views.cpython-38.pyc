@@ -1,0 +1,2 @@
+B    ﬁZè_‰   „               @   s<   d dl mZ d dlmZ d dl mZ d dlmZ ddÑ ZdS )È    )⁄render)⁄HttpResponse)⁄templatec             C   s
+   t | dÉS )Nztemplates/static_handler.html)r   )⁄request© r   ˙2d:\Lab2\firstwebpage\flatpages\views.py⁄home   s    r   N)Zdjango.shortcutsr   ⁄django.httpr   ⁄djangor   r   r   r   r   r   ⁄<module>   s   

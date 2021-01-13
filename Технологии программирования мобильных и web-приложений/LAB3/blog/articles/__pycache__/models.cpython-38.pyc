@@ -1,0 +1,6 @@
+U    L¬Š_  ã                   @   s.   d dl mZ d dlmZ G dd„ dejƒZdS )é    )Úmodels)ÚUserc                   @   sL   e Zd ZejddZejeejdZ	e 
+¡ ZejddZdd„ Zdd	„ Zd
+S )ÚArticleéÈ   )Ú
+max_length)Ú	on_deleteT)Úauto_now_addc                 C   s   d| j j| jf S )Nz%s: %s)ÚauthorÚusernameÚtitle©Úself© r   ú%D:\lab3\blog\articles\models.pyÚ__unicode__   s    zArticle.__unicode__c                 C   s&   t | jƒdkr | jd d… d S | jS )NéŒ   z...)ÚlenÚtextr   r   r   r   Úget_excerpt   s    zArticle.get_excerptN)Ú__name__Ú
+__module__Ú__qualname__r   Ú	CharFieldr   Ú
+ForeignKeyr   ÚCASCADEr	   Ú	TextFieldr   Ú	DateFieldZcreated_dater   r   r   r   r   r   r      s   r   N)Ú	django.dbr   Údjango.contrib.auth.modelsr   ÚModelr   r   r   r   r   Ú<module>   s   
